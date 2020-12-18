@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Varela Round;
+    src: url(../fonts/VarelaRound-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    background-image: url(hi.png);
+    background-repeat: no-repeat;
+	background-size: cover;	
+}
+#image {
+      position: absolute;
+    width: 52.5 !important;
+    height: 52.6 !important;
+    top: 31.2%;
+    left:43.1%;
+      border-color: #A52A2A;
+    border: 2px solid #A52A2A;
+}
+#name {
+position: absolute;
+    top: 35%;
+    left: 50%;
+    font-size: 20px;
+    width: 300px;
+    color: #A52A2A;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#count {
+    position: absolute;
+    top:41%;
+    left: 56%;
+    font-size: 50px;
+    width: 245px !important;
+}
+body {
+    background-color:transparent;
+    font-family: Varela Round;
+}
+#arc-icon, .is-visible {
+    display: none !important;
+}
