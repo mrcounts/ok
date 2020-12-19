@@ -4,8 +4,8 @@
 }
 
 @font-face {
-  font-family: Roboto Black;
-    src: url(../fonts/Roboto-Black.ttf);
+  font-family: Roboto Bold;
+    src: url(../fonts/Roboto-Bold.ttf);
 }
 
 body {
@@ -32,7 +32,7 @@ position: absolute;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    font-family: Roboto Black;
+    font-family: Roboto Bold;
 }
 #count {
     position: absolute;
@@ -43,5 +43,5 @@ position: absolute;
 }
 body {
     background-color:transparent;
-    font-family: Roboto Black;
+    font-family: Roboto Bold;
 }
