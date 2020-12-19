@@ -10,19 +10,18 @@ body {
 	background-size: cover;	
 }
 #image {
-      position: absolute;
-    width: 52.5 !important;
-    height: 52.6 !important;
-    top: 31.2%;
-    left:43.1%;
+      position: fixed;
+   
+    top: 38.5%;
+    left:38.2%;
       border-color: #A52A2A;
-    border: 2px solid #A52A2A;
+    border: 1px solid #A52A2A;
 }
 #name {
 position: absolute;
-    top: 35%;
-    left: 50%;
-    font-size: 20px;
+    top: 45%;
+    left: 46%;
+    font-size: 25px;
     width: 300px;
     color: #A52A2A;
     overflow: hidden;
@@ -31,7 +30,7 @@ position: absolute;
 }
 #count {
     position: absolute;
-   top:60%;
+    top:60%;
     left: 37%;
     font-size: 50px;
     width: 500px !important;
