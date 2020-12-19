@@ -36,7 +36,7 @@ position: absolute;
 }
 #count {
     position: absolute;
-    top:60%;
+    top: 57.5%;
     left: 29.5%;
     font-size: 85px;
     width: autopx !important;
