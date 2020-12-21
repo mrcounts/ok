@@ -8,6 +8,11 @@
     src: url(../fonts/Roboto-Bold.ttf);
 }
 
+@font-face {
+  font-family: Roboto Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+} 
+
 body {
     margin: 0;
     content: ' ';
@@ -55,4 +60,13 @@ position: absolute;
 body {
     background-color:transparent;
     font-family: Roboto Bold;
+}
+
+#realtime-watermark {
+  font-family: Roboto Regular;
+  font-size: px;
+  position: absolute;
+  top: 73%;
+    left: 35%;
+
 }
